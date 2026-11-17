@@ -4,13 +4,13 @@
 
 ## Продукты
 
-| | Что делает | Где работает |
-|---|---|---|
-| **[Протоколист](https://github.com/kozhevnikovai/protokolist)** · № 003 | Записывает встречу в Zoom, Телемосте или вживую и делает протокол с решениями, задачами и сроками. Живые субтитры, «Что я пропустил?», вопросы к архиву встреч | Windows, macOS |
-| **[Аудитор сайтов](https://github.com/kozhevnikovai/auditor-saitov)** · № 002 | Проверяет ваш сайт и конкурентов: SEO, путь к заявке, стиль, технологии, 152-ФЗ. Отчёт HTML, PDF, Excel | Claude Desktop, Claude Code, командная строка |
-| **[Тендерный помощник](https://github.com/kozhevnikovai/tender-pomoshnik)** · № 004 | Разбирает госзакупку 44-ФЗ и 223-ФЗ: требования, сроки, обеспечение, риски — с цитатами из документов. Следит за новыми закупками | Windows, macOS |
-| **[Бизнес-навыки](https://github.com/kozhevnikovai/biznes-navyki)** · № 001 | 12 навыков для Claude: КП, ответы на отзывы и претензии, письма должникам, вакансии, регламенты | Claude, Codex и другие агенты |
-| [local-ai](https://github.com/kozhevnikovai/local-ai) | Движок локальных моделей Qwen3 для приложений выше | Node.js |
+| | | Что делает | Где работает |
+|---|---|---|---|
+| <img src="https://raw.githubusercontent.com/kozhevnikovai/protokolist/main/docs/img/icon.png" width="40" alt=""> | **[Протоколист](https://github.com/kozhevnikovai/protokolist)** | Записывает встречу в Zoom, Телемосте или вживую и делает протокол с решениями, задачами и сроками. Живые субтитры, «Что я пропустил?», вопросы к архиву встреч | Windows, macOS |
+| <img src="https://raw.githubusercontent.com/kozhevnikovai/auditor-saitov/main/docs/img/icon.png" width="40" alt=""> | **[Аудитор сайтов](https://github.com/kozhevnikovai/auditor-saitov)** | Проверяет ваш сайт и конкурентов: SEO, путь к заявке, стиль, технологии, 152-ФЗ. Отчёт HTML, PDF, Excel | Claude Desktop, Claude Code, командная строка |
+| <img src="https://raw.githubusercontent.com/kozhevnikovai/tender-pomoshnik/main/docs/img/icon.png" width="40" alt=""> | **[Тендерный помощник](https://github.com/kozhevnikovai/tender-pomoshnik)** | Разбирает госзакупку 44-ФЗ и 223-ФЗ: требования, сроки, обеспечение, риски — с цитатами из документов. Следит за новыми закупками | Windows, macOS |
+| <img src="https://raw.githubusercontent.com/kozhevnikovai/biznes-navyki/main/docs/img/icon.png" width="40" alt=""> | **[Бизнес-навыки](https://github.com/kozhevnikovai/biznes-navyki)** | 12 навыков для Claude: КП, ответы на отзывы и претензии, письма должникам, вакансии, регламенты | Claude, Codex и другие агенты |
+| <img src="https://raw.githubusercontent.com/kozhevnikovai/local-ai/main/docs/img/icon.png" width="40" alt=""> | [local-ai](https://github.com/kozhevnikovai/local-ai) | Движок локальных моделей Qwen3 для приложений выше | Node.js |
 
 <p align="center">
   <a href="https://github.com/kozhevnikovai/protokolist"><img src="https://raw.githubusercontent.com/kozhevnikovai/protokolist/main/docs/img/demo.gif" width="49%" alt="Протоколист"></a>
